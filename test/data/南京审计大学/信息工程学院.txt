@@ -1,0 +1,146 @@
+['', '', '一、基本情况', '徐臻元，男，1986年生，江苏盐城人，工学博士、讲师，现任南京审计大学信息工程学院教师,江苏省人工智能学会成员。', '二、学习经历', '2009年，南京大学毕业（本科）；', '2011年，日本早稻田大学研究生（获工学硕士）；', '2015年，日本早稻田大学博士（获工学博士），博士后研究员。', '三、荣誉称号', '2017年,湖北省恩施州“特约审计专家”。', '四、研究领域', '主要研究大数据分析，大数据审计，数据挖掘，机器学习。发表SCI，EI等高水平论文6篇，CCF B类会议三篇；主持或参与多项国家级，省部级课题。', '', '']
+
+['', '']
+
+['', '钱钢，男，1965年生，江苏省常州人，中共党员，管理学博士，教授，南京师范大学管理科学与工程专业博士生导师。现任中国审计情报中心主任，江苏省审计大数据工程实验室主任、审计科学研究院副院长。2002年东南大学经济管理学院管理科学与工程专业博士毕业；2004年东南大学信息与通信工程专业博士后出站；2002年赴美国电子商务平台公司合作交流工程师，2011年10月至2012年10月公派美国加州大学高级访问学者。主要从事信息管理与决策支持、IT审计、现代审计技术与方法等领域的研究；主持包括国家863计划项目、中国博士后科学基金、国家高技术产业发展计划项目、江苏省高技术研究开发项目、江苏省产学研前瞻性研究项目、江苏省高校科研成果产业化项目等国家省部级多项重大研究项目；以第一作者在《控制与决策》、《管理工程学报》、《系统工程理论与实践》、《Knowledge-Based Systems》、《Fuzzy Systems》等国内外重要学术期刊和IEEE国际学术会议上发表50余篇，其中多篇论文被SCI、EI收录；出版学术著作4部；获江苏省科技进步三等奖一项，南京市科技进步二等奖一项、三等奖两项。高校优秀中青年骨干教师。', '', '钱钢主任主持国家审计情报中心、国家审计大数据研究中心、江苏省审计大数据工程实验室行政全面工作', 'E-Mail: qgmail@vip.sina.com', '']
+
+['', '钟飚，中共党员，美国路易斯安娜州立大学博士，佛罗里达大学博士后，主要研究环境审计(碳审计)，计算机审计方法，地理信息系统等研究。曾应邀评审多项国外期刊和国际会议论文，并参与过多项重点审计工程和省级重大课题的研究，发表过多篇优秀SCI/EI学术论文。', '']
+
+['']
+
+['', '雒燕：中共党员，讲师，东南大学管理科学博士，美国普渡大学联合培养博士。研究领域：建设项目审计，建设工程合同管理与索赔。教学课程：工程合同管理、房地产开发与经营。', '']
+
+['']
+
+['Yi \xa0Wu, Jongwoo Lim, and Ming-Hsuan Yang, “Object Tracking Benchmark”, IEEE Transactions \xa0on\xa0Pattern Analysis and Machine \xa0Intelligence, 37(9):1834-1848. 2015.', 'Yi \xa0Wu, Jinqiao Wang, Jian Cheng, Hanqing Lu, Jun Wang, \xa0Haibin Ling, Erik Blasch, and Li Bai, “Real-time Probabilistic Covariance \xa0Tracking with Efficient Model Update”, IEEE Transactions on Image \xa0Processing,\xa021(5): 2824-2837, \xa02012.', 'Yi \xa0Wu, Bin Shen and Haibin Ling, “Visual Tracking via \xa0Online Non-negative Matrix Factorization”，IEEE Transactions on Circuits and \xa0Systems for Video Technology,\xa024(3): 374–383, \xa02014.', 'Qingshan Liu, Jing Yang, Kaihua Zhang, and Yi Wu, “Adaptive Compressive Tracking via Online \xa0Vector Boosting Feature Selection”,IEEE \xa0Transactions on Cybernetics, 2017.', 'Annan \xa0Li, Min Lin, Yi Wu, Ming-Hsuan Yang and \xa0Shuicheng Yan, “NUS-PRO: A New \xa0Visual Tracking Challenge”, \xa0IEEE Transactions on Pattern Analysis and Machine \xa0Intelligence, 38(2): \xa0335-349, 2016.', 'Kaihua \xa0Zhang, Qingshan Liu, Yi Wu, and Ming-Hsuan Yang, “Robust Tracking via Convolutional Networks without \xa0Learning”,IEEE Transactions on Image Processing. 25(4):1779–1792.2016.', 'Chaoyang Zhao, Jinqiao Wang, Guibo Zhu, Yi Wu\xa0and Hanqing \xa0Lu, “Learning weighted part \xa0models for object tracking”,Computer Vision and Image Understanding, 143: 173-182, \xa02016.', 'Fu Li, \xa0Huchuan Lu, Dong Wang, Yi Wu, Kaihua Zhang, \xa0“Dual Group Structured Tracking”, IEEE Transactions on Circuits and \xa0Systems for Video Technology, 26(9): 1697-1708, \xa02016.', 'Xue \xa0Mei, Haibin Ling,\xa0Yi Wu,\xa0Erik Blasch, and Li Bai, “Efficient Minimum \xa0Error Bounded Particle Resampling L1 Tracker with Occlusion \xa0Detection”，IEEE Transactions on Image \xa0Processing,\xa022(7): 2661-2675, 2013.', 'Erkang \xa0Cheng, Liang Du, Yi Wu, Y. Zhu, Vasileios\xa0Megalooikonomou, and Haibin Ling, “Discriminative Vessel Segmentation in Retinal Images by Fusing \xa0Context-Aware Hybrid Features”, Machine Vision and \xa0Applications\xa0(MVA), 25(7) : 1779-1792\xa0\xa0, 2014.', "Yi \xa0Wu,\xa0\xa0Yoshihisa Ijiri, and Ming-Hsuan Yang, “Multiple \xa0Non-Rigid Surface Detection and Registration,”\xa0in \xa0Proc. IEEE International Conference on Computer Vision \xa0(ICCV'13), 2013.", 'Yi \xa0Wu, Jongwoo Lim, and Ming-Hsuan Yang, “Online \xa0Object Tracking: A Benchmark”, in Proc. IEEE Conference on Computer Vision \xa0and Pattern Recognition (CVPR’13), 2013.', 'Yi \xa0Wu, Bin Shen, and Haibin Ling, “Online Robust \xa0Image Alignment via Iterative Convex Optimization”, in Proc. IEEE \xa0Conference on Computer Vision and Pattern Recognition (CVPR’12), \xa02012.', 'Yi \xa0Wu, Haibin Ling, Jingyi Yu, Feng Li, Xue Mei, and \xa0Erkang Cheng, “Blurred Target Tracking by Blur-driven Tracker”, in Proc. \xa0IEEE International Conference on Computer Vision (ICCV’11), \xa02011.', "Yi \xa0Wu, Jian Cheng, Jinqiao Wang, and Hanqing Lu, \xa0“Real-time Visual Tracking via Incremental Covariance Tensor Learning”, in Proc. \xa0IEEE International Conference on Computer Vision \xa0(ICCV'09),2009.", 'Chenglong \xa0Bao, Yi Wu, Haibin Ling,\xa0and Hui Ji,“Real time robust L1 \xa0tracker using accelerated proximal gradient approach”,in Proc. \xa0IEEE Conference on Computer Vision and Pattern Recognition (CVPR’12), \xa02012.', 'Xue Mei, \xa0Haibin Ling,\xa0Yi Wu, Erik Blasch, and Li Bai, “Minimum Error Bounded \xa0Efficient L1 Tracker with Occlusion Detection”，in Proc. IEEE \xa0Conference on Computer Vision and Pattern Recognition \xa0(CVPR’11), 2011.', "Guibo Zhu, \xa0Jinqiao Wang, Yi Wu, and Hanqing Lu, “CN-HOG Correlation Tracking with Saliency \xa0Proposal”, in Proc. Association \xa0for the Advancement of Artificial \xa0Intelligence (AAAI'16), \xa02016.", 'Guibo Zhu, \xa0Jinqiao Wang, Hanqing Lu, and Yi Wu,\xa0“Collaborative \xa0Correlation Tracking”, British \xa0Machine Vision Conference\xa0(BMVC’15)\xa0, \xa02015.', 'Xiaokai \xa0Liu, Hongyu Wang, Yi Wu, Jimei Yang, and Ming-Hsuan Yang, “An Ensemble Color Model for Human Re-identification”,\xa0in Proc. IEEE Winter Conference on Applications of Computer Vision\xa0\xa0(WACV’15), 2015.', '', '', '']
+
+['', '张晋津，中共党员，工学博士、副教授，2011年毕业于南京航空航天大学计算机科学与技术学院。近年来主持承担国家科学基金青年基金项目一项，国家自然科学基金数学天元基金一项，江苏省高校自然科学基金一项；在《Information and Computation》等期刊上发表学术论文十余篇。', '张晋津副院长分管本科生教学、专业建设、实验教学、CISA项目。', '']
+
+['']
+
+['', '李跃水，东南大学管理学博士，副教授。长期从事工程造价审计方向研究。主讲课程：《工程估价》、《工程造价管理与审计》。长期承担审计署审计干部教育学院投资审计培训的授课工作，近年来在本专业核心期刊《建筑经济》等期刊发表论文10余篇，主持完成三峡集团委托课题《基于TGPMS系统的工程投资判据体系研究》。', '']
+
+['', '姓名：李雯', '性别：女', '职称：讲师', '职务：教师', '邮箱：liwen0779@nau.edu.cn', '研究方向：时空数据挖掘、高维数据检索', '个人简历：李雯，中共党员，2017年获得中国矿业大学计算机应用技术博士学位，主要研究方向包括轨迹数据挖掘、高维空间近邻搜索等。在国内外期刊和国际会议上发表多篇学术论文，参与多项国家级、省部级自然科学基金研究课题。', '']
+
+['']
+
+['']
+
+['']
+
+['']
+
+['', '', '入职以来主要教学课程：《企业资源计划》、《管理信息系统》、《供应链管理》；主要研究领域：供应链契约协调、运作优化；参与多项国家级、省级社科项目；在《系统工程学报》、《统计与决策》、《物流技术》、《工业工程》，《中国机械工程》等杂志发表多篇论文。', '']
+
+['']
+
+['', '', '姓\xa0 名', '徐臻元', '性\xa0 别', '男', '出生年月', '1986.8', '民\xa0 族', '汉族', '政治面貌', '群众', '健康状况', '良好', '出生地', '江苏盐城', '身份证号码', '320902198608033015', '所在单位及行政职务', '南京审计大学国家审计大数据研究中心，院长助理', '是否破格申请', '（破格原因）', '专业技术职务岗位', '（本校人员填写）', '□二级教授\xa0\xa0\xa0\xa0 □三级教授\xa0\xa0\xa0 □四级教授', '', '□五级副教授\xa0\xa0 □六级副教授\xa0 □七级副教授', '', '□其他：\xa0\xa0\xa0\xa0\xa0\xa0\xa0 讲师', '现任专业技术职务、何时经何评委会评审通过', '本人研究方向或领域', '机器学习，数据挖掘，大数据分析', '申请硕士学位', '授权学科名称', '或类别', '学术学位：计算机科学与技术', '拟培养', '研究生的', '研究方向', '数据挖掘', '专业学位：计算机科学与技术', '数据挖掘', '最高学位', '和最后学历', '（毕业时间、学校、专业）', '境内：南京大学（本科）2009 软件工程', '境外：早稻田大学（博士，博后）2015 信息生产系统', '外语语种及程度', '英语精通，日语精通', '参加何学术团体、任何职务', '江苏省人工智能学会委员', '任现职以来获何表彰奖励和荣誉称号、受何处分', '荣誉称号、表彰奖励名称', '获奖时间', '授奖部门', '获奖', '级别', '排名/总人数', '处分：', '手机号', '13407508807', 'E-Mail', 'xzyzx05@163.com', '通讯地址', '南京审计大学位育楼215', '邮政编码', '办公电话', '', '二、学习经历（从高中毕业后填起）', '毕业国家、学校', '所学专业', '学制', '学历', '学位', '毕(肄)业及时间', '南京大学', '软件工程', '4', '本科', '学士', '2009年毕业', '日本早稻田大学', '信息生产系统', '2', '研究生', '硕士', '2011年毕业', '日本早稻田大学', '信息生产系统', '无', '博士研究生', '博士', '2015年毕业', '三、工作经历（含主要进修经历）', '起止时间', '在何地、何学校（单位）工作、进修及任何职', '备注', '2015至今', '南京审计大学', '', '四、近三年科研情况', '汇总', '主持科研项目3 项。其中国家级\xa0 项，省部级\xa0 项，市厅级2 项，横向\xa0 1项', '参与科研项目\xa0 4项。其中国家级2 项，省部级\xa0 1项，市厅级\xa0 1项，横向\xa0 项', '到账科研经费\xa0\xa0\xa0 \xa0\xa040 万元。其中纵向经费\xa0\xa0\xa0 \xa0\xa040 万元，横向经费\xa0\xa0\xa0\xa0 \xa0\xa0万元', '共发表学术论文\xa0\xa0 8篇', '其中SCI、EI、ISTP收录2 篇，SSCI收录\xa0 篇，CSSCI核刊\xa0 篇，国外刊物6 篇', '出版学术著作\xa0\xa0 部', '授权专利共\xa0\xa0 项。其中发明专利\xa0\xa0 项，实用新型专利\xa0\xa0 项', '获奖成果\xa0\xa0 项。其中国家级\xa0\xa0 项，省部级\xa0\xa0 项，市厅级\xa0\xa0 项', '（一）科研项目', '序号', '项目名称（编号）', '项目来源', '起讫', '日期', '结项时间', '本人排名', '经费', '(万元)', '']
+
+['', '张晓东，中共党员，东南大学计算机应用技术博士，高级工程师，副教授，现任信息工程学院副院长。从事软件相关行业管理工作十余年，获得信息产业部信息系统集成项目经理资质。长期从事高校信息化建设、工作流调度等方向的研究工作，在国内外期刊发表10余篇学术论文。', '', '张晓东副院长分管科研工作、研究生教育工作。协助院长做好学科建设工作。', '']
+
+['']
+
+['', '', '李保珍', '邮箱：baozhenli@126.com', '研究方向：智能数据分析、决策与优化', '个人简介：李保珍，男，博士，教授，硕士生导师，计算机学会（CCF）会员，信息系统协会（CNAIS）会员。2008年毕业于南京大学，获管理科学与工程专业信息管理工程方向博士学位。研究方向为智能数据分析、社交媒体挖掘、决策与优化等。近年来主持国家自然科学基金面上项目2项，教育部、国家统计局及江苏省等省部级项目6项；在《Information Sciences》、《Online Information Review》、《European Journal of Operational Research》、《情报学报》、《运筹与管理》、《数据分析与知识发现》等期刊发表学术论文40余篇；申请发明专利3项。', '']
+
+['<!--[if !vml]--><!--[endif]-->', '', '李保珍', '邮箱：baozhenli@126.com', '研究方向：智能数据分析、决策与优化', '个人简介：李保珍，男，博士，教授，硕士生导师，计算机学会（CCF）会员，信息系统协会（CNAIS）会员。2008年毕业于南京大学，获管理科学与工程专业信息管理工程方向博士学位。研究方向为智能数据分析、社交媒体挖掘、决策与优化等。近年来主持国家自然科学基金面上项目2项，教育部、国家统计局及江苏省等省部级项目6项；在《Information Sciences》、《Online Information Review》、《European Journal of Operational Research》、《情报学报》、《运筹与管理》、《数据分析与知识发现》等期刊发表学术论文40余篇；申请发明专利3项。', '']
+
+['']
+
+['']
+
+['']
+
+['', '']
+
+['']
+
+['', '', '', '', '', '', '陈伟，1976年生，工学博士，管理学博士后，教授，中共党员，江苏省高校“青蓝工程”中青年学术带头人，江苏省“333高层次人才培养工程”中青年科学技术带头人，江苏省“六大人才高峰”高层次人才，加拿大多伦多大学访问学者（2009年3月－2010年4月），中国审计学会审计教育分会理事，国家自然科学基金评审专家、江苏省科技厅评审专家、广东省科技厅评审专家、山东省科技厅评审专家、四川省科技厅评审专家、河北省科技厅评审专家、浙江省科技厅评审专家、江苏省经信委评审专家。', '长期从事审计信息化、大数据审计等方向的科研、教学、培训与咨询工作。主持国家自然科学基金（3项）、中国博士后科学基金（一等资助金）、教育部人文社会科学研究项目（2项）、教育部留学回国人员科研启动基金等10多项课题；参与完成审计署承担的国务院“金审工程”、国家“863”计划“计算机审计数据采集与处理技术”、国家科技支撑计划“审计行业信息智能处理分析与预警系统及其应用”等多项课题；第一作者或独立在国内外学术期刊上发表论文70余篇、出版《审计信息化》、《计算机审计》、《电子数据审计模拟实验》、《联网审计技术方法与绩效评价》、《计算机辅助审计原理及应用（第三版）》等著作近10部。获全国电子信息类与财经类优秀教材、江苏省高校重点教材等多项奖励，出版的相关著作被国内百余所大学选作教材。第一申请人获计算机软件著作权近20项。相关研究成果在审计行业中应用，取得了良好的社会与经济效益。2017年－2018年在审计署驻上海特派办挂职1年，任计算机审计处副处长，先后参加了审计署组织的某中央企业经济责任审计、某中央金融集团经济责任审计、某省扶贫专项审计与国家重大政策措施落实情况跟踪审计、某中央金融机构审计等审计项目，将理论研究应用于审计实务之中，取得了丰硕的成果；近年来百余次受邀为各级政府审计机关、大型企事单位、银行等提供审计信息化方面的培训工作。', '', '']
+
+['']
+
+['']
+
+['', '']
+
+['', '']
+
+['', '', '', '', '李庭燎，男，博士，中共党员，南京审计大学信息工程学院信息管理与信息系统系系主任，国际注册信息系统审计师（CISA）。', '2001年本科毕业于东南大学信息管理与信息系统专业，2006年毕业于东南大学管理科学与工程专业获硕士学位，2016年毕业于东南大学管理科学与工程专业获博士学位。', '主要从事信息系统审计的教学、研究和培训，曾为国家审计署、中国内审协会、大型企业和事业单位等组织提供信息系统审计相关培训服务。', '参与过审计署特派办和地方审计机关多个信息系统有关审计项目，曾赴多个国家参加联合国审计项目。', '工作以来，承担和参与了多项省部级以上课题及横向课题，发表了多篇论文，参与编写和翻译了《全球信息系统审计指南》《经营分析和信息技术》《信息系统绩效评价与审计》等多部著作。', '', '', '', '', '', '']
+
+['', '', '郭红建，男，中共党员，南京审计大学信息工程学院副教授，国际注册信息系统审计师（CISA），主要研究方向为审计信息化、计算机审计。先后在计算机系和信息管理系工作，承担相关专业的本科教学和科研任务。作为“信息系统分析与设计”校级优秀教学团队带头人，主要讲授《信息系统分析与设计》、《计算机辅助审计》、《信息系统审计》、《数据库原理与应用》等课程，教学效果良好，多次获得校级“教学质量奖”。\xa0\xa0\xa0\xa0\xa0\xa0\xa0 长期致力于审计信息化的研究和社会服务，承担了多项省部级以上课题的研究任务，在核心期刊发表论文多篇。2015年在审计署长沙特派办挂职锻炼一年，参与重大审计项目2项。先后主持或参与了与上海烟草集团、中国长江三峡集团、国家开发银行等企业的IT风险控制与IT审计相关的横向课题研究，参与了审计署《信息系统审计指南》的修订工作。同时，与ISACA合作，长期担任校CISA考试培训中心专职老师，承担了审计署、地方审计机关和大型企业的计算机审计和信息系统审计等主题的培训教学任务。']
+
+['']
+
+['', '林翰，上海交通大学安泰经济与管理学院博士。南京审计大学润泽学者，现任工程管理学院学科带头人。主要研究方向：重大基础设施工程管理、社会责任、技术创新和环境管理。参与国家自然科学基金重大项目、重点国际（地区）合作研究项目等多项国家级科研项目。在Nature，Journal of Business Research, Journal \xa0of Environmental Management, Journal of Cleaner \xa0Production等国内外知名学术期刊发表文章二十余篇（SCI/SSCI检索），以第一发明人获5项专利授权，担任International Journal of Project Management, Business Strategy and \xa0the Environment, International Journal of Production \xa0Research等期刊的审稿人。', '']
+
+['']
+
+['', '', '葛世龙，中共党员，南京航空航天大学管理学博士，副教授、硕士生导师。主要从事能源-环境-经济系统建模与优化、复杂系统评价与决策研究。担任《Energy Policy》、《Mathematical & Computer \xa0Modelling》、《管理科学学报》、《自然资源学报》和《资源科学》等期刊的审稿人。主持国家自然科学基金、国家教育部人文社会科学研究项目各1项。在《管理科学学报》、《中国管理科学》、《管理学报》等期刊发表论文近20篇。2014年入选江苏省“青蓝工程”骨干教师。', '']
+
+['']
+
+['']
+
+['']
+
+['', '']
+
+['', '<!--[if !vml]-->', '', '姓\xa0 名：吕从东\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 性\xa0 别：男', '籍\xa0 贯：江苏连云港\xa0\xa0\xa0\xa0 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0出生年月：1987.12', '政治面貌：中共党员\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 学\xa0 \xa0\xa0历：博士', '职\xa0\xa0\xa0\xa0 务：信工院第五支部书记\xa0\xa0\xa0\xa0\xa0 职\xa0\xa0\xa0 称：讲师/硕士生导师', '电\xa0 话：18910970316\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 电子邮箱：\xa0lvcongdong@bjtu.edu.cn', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2010.9 – 2016.7 北京交通大学计算机与信息技术学院博士（硕博连读）', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2006.9 - 2010.7 南京师范大学计算机科学与技术学院本科', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2016.8 – 至今南京审计大学信息工程学院', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2016.7 – 2016.9 审计署京津冀特派办参与离任干部自然资源审计项目', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2012.5 - 2013.6，国家保密局挂职锻炼（主任科员）', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->2010.6 - 2010.9，北京市国路安信息技术股份有限公司（原铁道部直属）', '', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->南京审计大学2017年度优秀个人', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->南京审计大学2017年度优秀党员', '', '', '', '', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->信息与网络安全体系结构研究，973课题', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->Kylin操作系统可信支撑模块研制，863重大专项子课题', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->“数字媒体信息处理”教育部创新团队课题，教育部', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->可信云服务平台的关键技术研究，教育部', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->铁路信息安全等级保护体系及关键技术研究，铁道部', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->基于可信计算的涉密终端安全防护技术的研究，铁道部', '<!--[if !supportLists]-->Ø\xa0\xa0 <!--[endif]-->', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Congdong Lv, Xiaoyong Li, Wei Ma. Intransitive Noninterference in the Action-disordered System[J].\xa0 International Journal of\xa0 Control and Automation, 2015,12（EI）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Congdong Lv, Xiaoyong Li, Fei Li, Wei Ma. Analysis and Proofs of Properties in Intransitive Noninterference [J].\xa0 International Journal of Hybrid Information Technology, 2015, 8(7): 243-252（EI）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Congdong Lv,\xa0Xiaoyong Li, Fei Li, Wei Ma. Preventing Virtual Disk from Privacy Analysis in Cloud [J]. Journal of Computational Information Systems, 2014, 10(17): 7529-7536（EI）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Congdong Lv, Wei Ma, Xiaoyong Li. A Multi-party Decision Hot-standby Model[J]. TELKOMNIKA Indonesian Journal of Electrical Engineering, 2014, 12(4): 3247-3252', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Congdong Lv. The Security Problems in Cloud Computing and Solution Strategy[C].\xa02011 International Conference on Information, Services and Management Engineering, Beijing, 2011,1:54-56 （ISTP）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Ma, Wei, Congdong Lv, and Xiaoyong Li. Virtual Desktop Information Con_dentiality Mechanism Based on Information Flow Model[J]. Journal of Applied Sciences, 2013,13(8): 1311-1317 （EI）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->Guangshuai Li, Congdong Lv. Tree Module Wireless Sensor Network Based on Min-TPM[C]. 2012 International Conference on Electronic Information and Electrical Engineering, Changsha, 2012:301-303（ISTP）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->吕从东. 非传递无干扰下IP安全与TA安全关系研究[J]. 计算机工程与应用, 2017.', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->吕从东，韩臻. 一种保持多等级安全策略细化后无干扰属性的方法[J]. 四川大学学报(工程科学版), 2015, 47(4):136-141（EI）', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->吕从东，李晓勇，马威.涉密光盘管理研究[J]. 保密科学技术, 2014,6:35-42', '<!--[if !supportLists]-->Ø\xa0 <!--[endif]-->吕从东，韩臻，马威. 云存储服务端数据存储加密机制设计和实现[J]. 信息网络安全, 2014,6:78-86', '']
+
+['', '', '梅轶群，女，中共党员，东南大学管理科学与工程硕士，现任南京审计大学信息工程学院教师。主讲课程有：管理信息系统，信息经济学与应用，信息系统审计，ERP沙盘模拟，决策与判断。主要研究方向为运营管理。任教以来参与多项专业建设与教学改革，曾参与江苏省《管理信息系统》、《信息系统审计》精品课程项目建设，参与教材的编写。参与多项省厅级课题，其中包括江苏省教育厅“信息技术环境对传统审计理论和实务的影响和对策研究”项目等，发表了题为《高校科技创新能力的分析和评价》及《供应链企业间合作契约机制设计及博弈分析》等的科研论文。', '']
+
+['']
+
+['', '', '', '姚兴山，讲师，南京大学，博士研究生，主要从事信息检索及信息智能处理领域的研究，在信息检索过程中，设计了一种新的词典存储结构，通过测试，其效率有了明显提升。目前研究主要集中在应用DEA和大数据技术研究互联网金融和智慧城市，在互联网金融领域主要是通过DEA和大数据技术进行互联网金融的风险研究，通过对数据分析建模，设计免疫预警机制。在智慧城市领域，主要是通过大数据技术对各种来源异构数据分析，设计决策模型，从而为城市管理和决策提供支持。在国内期刊发表学术论文十多篇，参与国家和省级课题多项。主讲《信息系统分析与设计》、《数据库原理》、《信息系统开发工具》、《WEB开发技术》、《JAVA程序设计》等本科生课程。', '']
+
+['']
+
+['', '毛晔，中共党员，东南大学管理学博士，副教授。研究方向：建设项目审计。主讲课程：《工程测量》、《工程造价应用软件》。主持江苏省公共工程审计重点实验室研究课题、江苏省教育厅高校哲学社会科学基金项目、江苏省高校自然科学基础研究面上项目、江苏省社科联研究课题各1项。', '']
+
+['']
+
+['', '', '徐庆阳，中共党员，东南大学工学博士，副教授，现任工程管理学院副院长，江苏省公共工程审计重点实验室副主任。江苏省工程管理专业委员会委员。长期从事公共工程质量审计、工程结构抗震减震等方向的研究工作，在《土木工程学报》等期刊上发表学术论文20余篇。获2014年度江苏省高校青年教师教学竞赛自然科学应用组二等奖，2013年江苏省优秀工程建设标准设计一等奖。', '']
+
+['']
+
+['', '陈永泰，南京大学工程管理学院博士生，副教授,硕士生导师。研究方向为社会-经济-环境复杂系统工程管理等。主持国家自然科学基金、教育部人文社会科学基金项目各1项，作为核心成员参与国家社会科学重大招标项目、国家自然科学基金重大、重点项目等多项省部级以上课题。发表了十多篇研究论文，参与编写教材4部、专著1部。获江苏省哲学社会科学优秀成果三等奖、镇江市哲学社会科学优秀成果一等奖、二等奖、三等奖各1项。', '']
+
+['']
+
+['', '', '', '王旭辉，女，南京审计大学信息工程学院副研究员，管理科学与工程博士。主要从审计理论与方法方面的研究，研究信息环境下内部审计、内部控制与风险管理。从事高校老师工作之前，先后在外资企业、民营大型软件企业从事管理工作，有丰富的企业管理经验。主持完成国家自然科学基金项、江苏省教育厅课题、校级课题各1项，参与完成国家自然科学基金3项、国家科技部“985”课题1项，教育部课题1项，大型国有企业的横向课题多项。201208-201303日本专修大学访问学者。在《审计研究》等权威期刊发表论文20余篇，论文累计被引用80多次，3篇论文被人大报刊复印资料全文转载。主讲《管理信息系统》、《社会科学研究方法》、《管理学》等本科生课程。', '']
+
+['', 'u\xa0 姓名： 沈静秋\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 ◆ 性别：女', 'u\xa0 籍贯： 湖北省黄冈市', '◆政治面貌：中共党员', 'u\xa0 手机： +86-1391-387-8195', 'u\xa0 电子邮箱：yijiaotakong@163.com', 'u\xa0 2008年7月至今\xa0 南京审计大学信息工程学院', '专职教师岗 讲师', 'u\xa0 研究内容：', '1.\xa0\xa0\xa0\xa0\xa0 国家自然科学基金青年项目《利益相关者视角下的内部审计增值模式的选择：基于组合计算实验方法的研究（71201086）》（2012.07至今），负责内部审计增值理论与应用研究；', '2.\xa0\xa0\xa0\xa0\xa0 国家自然科学基金面上项目《审计主体行为对审计风险的影响研究：基于案例分析和计算实验方法（70971066）》（2009.07－2012.12），主要负责审计行为因素分析；', '3.\xa0\xa0\xa0\xa0\xa0 国家自然基金面上项目《基于数据质量的审计风险控制模型研究（70571038）》（2008.7-2008.12），参与数据质量指标研究与结项工作；', '4.\xa0\xa0\xa0\xa0\xa0 国家科技支撑计划重大项目《政府预算执行动态审计监测关键技术应用研究与示范（子课题1）》（2010.01－2012.12），负责审计方式研究；', '5.\xa0\xa0\xa0\xa0\xa0 国家教育部人文社会科学研究项目《金融产品创新的风险审计研究：基于计算实验方法（09YJA630072）》，负责风险审计研究；', '6.\xa0\xa0\xa0\xa0\xa0 江苏省高校自然科学基金重大项目《基于审计主体行为的计算实验方法研究（09KJA520001）》（2010.1－2012.12），负责审计主体行为分析；', '7.\xa0\xa0\xa0\xa0\xa0 江苏省高校哲学社会科学重点研究基地重大项目《基于CPA主体行为的计算实验方法研究》（2010.01－2010.12），负责CPA行为研究；', '8.\xa0\xa0\xa0\xa0\xa0 江苏省教育厅高校哲学社会科学研究项目（09SJB630037）《动态监测审计方式的理论研究》（2009.1-2010.12）项目组成员，负责审计方式研究；', '9.\xa0\xa0\xa0\xa0\xa0 大亚湾核电运营管理有限责任公司《最佳审计实践—大亚湾核电内部审计》项目组成员（2010.1-2010.10），负责增值型内部审计框架构建。', 'u\xa0 学术成果：', '1.\xa0\xa0\xa0\xa0\xa0 内部审计信息化的企业战略驱动因素探析 财会通讯（综合版）2015（7）1/2', '2.\xa0\xa0\xa0\xa0\xa0 信息系统绩效评价与审计 东南大学出版社，2014年5月第一版 3/3', '3.\xa0\xa0\xa0\xa0\xa0 网络型能源产业融合动因与改革进程\xa0\xa0 经济与管理，2012（8） 3/3', '4.\xa0\xa0\xa0\xa0\xa0 构建和谐增值型内部审计之要义 财会通讯（综合版）下旬刊，2011（10）1/2', '5.\xa0\xa0\xa0\xa0\xa0 Design of Computational Experiment from Individual Behavior to Group Behavior on auditing\xa0 The 2nd International Conference on E-Business and E-Government (ICEE 2011)，2011年5月刊。EI收录\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2/2', '6.\xa0\xa0\xa0\xa0\xa0 绩效审计案例库的系统设计与关键问题\xa0 管理科学与工程学会2010年会暨第八届中国管理科学与工程论坛（会议论文）2/3', '7.\xa0\xa0\xa0\xa0\xa0 基于企业目标视角的内部审计增值探析\xa0\xa0\xa0\xa0\xa0 \xa0 中国内部审计，2010（11），人大复印资料全文转载 1/3', '8.\xa0\xa0\xa0\xa0\xa0 基于水桶理论的信息系统绩效审计分析\xa0 中国内部审计，2010（3），人大复印资料全文转载 1/2', '9.\xa0\xa0\xa0\xa0\xa0 最佳审计实践——大亚湾核电内部审计\xa0 中国时代经济出版社，2010年9月第一版 4/4', 'u\xa0 2005年8月－2008年6月 南京大学商学院会计系 硕士 现代审计理论与实务方向', 'u\xa0 研究内容：', '1.\xa0\xa0\xa0\xa0\xa0 国家自然基金面上项目（70371015）《基于数据挖掘技术的中观审计风险研究》（2008.1-2008.5），参与原型系统设计与结项工作；', '2.\xa0\xa0\xa0\xa0\xa0 优化内控体系，推进全面风险管理——中国海洋石油总公司内控检查与评价（2006.10-2007.12），负责工程审计流程分析以及风险矩阵研究；', '3.\xa0\xa0\xa0\xa0\xa0 硕士论文：信息系统绩效审计研究', 'u\xa0 学术成果：', '1.\xa0\xa0\xa0\xa0\xa0 企业财务管理目标如何实现 \xa0市场周刊-新物流，2007（12）1/2', '2.\xa0\xa0\xa0\xa0\xa0 数据质量研究的审计意义 \xa0审计与经济研究，2007（11）3/3', 'u\xa0 2001年9月－2005年7月\xa0 东南大学仪器科学与工程系 学士 测控技术与仪器专业', 'u\xa0 2003年9月－2004年6月\xa0 东南大学仪器科学与工程系 辅修 数学建模', 'u\xa0 2004年通过CET-6，能胜任英语环境下的研究工作，具有良好的读写能力，熟悉专业英语。', '']
+
+['']
+
+['']
+
+['']
+
+['']
+
+['', '王雪荣，中共党员，南京理工大学管理学博士，教授，现任工程管理学院院长。主要研究方向：建设项目审计、资产评估、项目评价与管理、质量管理。江苏省“青蓝工程”优秀学科带头人，江苏省“333人才培养计划”第三层次培养对象，我学首批润泽学者。主持国家自然基金面上项目2项；主持国家科技部重点支撑项目子课题及省部级各类课题6项。在《中国管理科学》、《数量经济技术经济研究》、《系统工程学报》、《系统工程理论与实践》等国家权威期刊上发表学术论文40多篇；发表学术专著两部。', '王雪荣院长(主任)主持工程管理与审计学院、公共工程审计重点实验室行政全面工作。', '', '']
+
+['', '', '唐明伟，中共党员，副教授，信息管理博士，情报学博士后，江苏省毕业设计优秀指导教师，长期从事大数据、物联网等技术的应用研究，近年来以第一作者发表CSSCI论文15篇，CSCD3篇，主持国家级课题2项，省部级课题4项，参与多项国家级重大课题。主要承担《Java程序设计》、《Web开发》和《信息系统开发工具》等课程的教学工作。', '']
+
+['', '姓名：孙周宝性别：男职称：讲师职务：教师', '个人简介：博士，讲师，研究方向为审计大数据挖掘、机器学习，承担软件测试与保证等课程的教学工作，近年来，主持或参与多项国家青年基金及省级自然基金课题，在国外期刊上发表多篇学术论文。', '']
+
+['']
+
+['', '']
+
+['']
+
+['', '']
+
+['杨国为，工学博士、二级教授、博士生导师，中共党员。1988年7月起从事高等教育工作，敬业爱岗，关爱学生，团结教学团队成员、科研团队成员和管理团队成员。江西省“赣鄱英才555工程”首批入选者，曾任青岛大学特聘教授、南昌航空大学特聘教授、青岛大学自动化工程学院副院长、南昌航空大学信息工程学院院长、江西省图像处理与模式识别重点实验室主任；现任南京审计大学信息工程学院院长、江苏省审计信息工程重点实验室主任。入选南京审计大学首批“润泽学者”。是美国伊利诺伊大学高级访问学者（2008.10-2009.10）、江南大学等大学客座教授、中国人工智能学会理事、中国人工智能学会可拓工程专业委员会副主任。近十年来主持承担国家863计划项目2项、国家重点研发计划“职务犯罪智能评估、预防关键技术研究”子项目1项、国家自然科学基金面上项目5项；在《计算机学报》等期刊上发表学术论文130余篇，其中20余篇是SCI一区、二区源刊论文；在科学出版社出版专著3部；申请发明专利5项；获江西省自然科学奖一等奖(排名第一)1项。获吴文俊人工智能科学技术奖二等奖（排名第一）和山东省科技进步奖三等奖(排名第一)各1项。主要研究方向为智能审计、模式识别与智能系统、智能信息处理。', '杨国为院长主持学院行政全面工作，分管学院发展规划、学科建设、财务和人事工作。', '', '']
+
+['']
+
+['', '', '刘雷，中共党员，南京航空航天大学管理学博士，副教授。主要从事工程管理与审计等方面的研究，曾在《土木工程学报》、《建筑经济》、《工程管理学报》、《系统工程》、《数理统计与管理》、《科研管理》、《管理评论》等刊物上发表了10多篇论文。曾主持教育部人文社会科学研究青年基金项目《基于FMEA方法的公共工程风险控制的审计模型研究》。', '']
+
+['吴平平，中共党员，2016年7月毕业于北京大学电子科学与技术专业，研究方向为多媒体技术。从事人脸表情分析及唇语识别的研究工作。为解决表情识别中的难点问题提出判别学习模型及鲁棒、高区分度的特征。采用融合视觉语音识别的方法来提升噪声环境下基于音频的关键词识别。发表学术论文十余篇，其中第一作者SCI收录的3篇，图像处理及信号处理领域多个著名国际会议的同行评审。授权专利2项，参与多项国家级课题。', '主持或参加科研项目（课题）及人才计划项目情况（按时间倒序排序）：', '1. 国家青年科学基金项目61701243：面向人机交互的深度人脸表情分析研究、2018.01-2020.12、24万、在研、主持。', '2. 深圳市战略新兴产业项目CXC201104210010A：网络环境下的智能监控系统公共技术服务平台、2012.02-2014.02、300万、结题、参与。', '3. 国家自然科学基金项目、60875050：面向HRI的机器人视听觉注意机制及运动规划技术、2009.01-2011.12、35万、结题、参与。', '4. 973、863项目、2006AA04Z247：面向HRI的机器人视听觉注意机制及运动规划技术、2007.01-2009.12、65万、结题、参与。', '代表性研究成果', 'l\xa0\xa0 Pingping Wu, Hong Liu*, Chao Xu, Xuewu Zhang and Yuan Gao. How Do You Smile? Towards A Comprehensive Smile Analysis System. NeuroComputing, vol.235, pp. 245-254, 2017. (SCI Indexed)', 'l\xa0\xa0 Pingping Wu, Hong Liu*, Xiaofei Li, Ting Fan and Xuewu Zhang. A Novel Lip Descriptor for Audio-Visual Keyword Spotting Based on Adaptive Decision Fusion. IEEE Transactions on Multimedia (TMM), vol.18, no.3, pp.326-338, 2016. (SCI Indexed)', 'l\xa0\xa0 YuanGao, Hong Liu, Pingping Wu and Can Wang. A New Descriptor of Gradients Self-Similarity for Smile Detection in Unconstrained Scenarios, NeuroComputing, vol.174, pp. 1077-1086, 2016. (SCI Indexed)', 'l\xa0\xa0 Pingping Wu, Hong Liu and Xuewu Zhang. Spontaneous versus posed smile recognition using discriminative local spatial-temporal descriptors. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1249-1253, May 4-9, Florence, Italy, 2014. (EI)', 'l\xa0\xa0 Pingping Wu, Wenmin Wang and Hong Liu. Methods of Recognizing True and Fake Smiles by Using AU6 and AU12 in a Holistic Way. Lecture Notes in Electrical Engineering (LNEE), vol.256, pp.603-613, Aug. 23-25, 2013. (EI)', 'l\xa0\xa0 Hong Liu and Pingping Wu. Comparison of Methods for Smile Deceit Detection by Training Au6 and Au12 Simultaneously. IEEE International Conference on Image Processing (ICIP), pp. 1805-1808, Sep. 30-Oct. 3, Orlando, USA, 2012. (EI)', 'l\xa0\xa0 Hong Liu, Ting Fan and Pingping Wu. Audio-visual Keyword Spotting Based on Adaptive Decision Fusion under Noisy Conditions for Human-Robot Interaction. IEEE International Conference on Robotics and Automation (ICRA), pp.6644-6651, May31-Jun.7, 2014. (EI)', 'l\xa0\xa0 Hong Liu, Yuan Gao and Pingping Wu. Smile detection in unconstrained scenarios using self-similarity of gradients features. IEEE International Conference on Image Processing (ICIP), pp.1455-1459, Oct. 27-30, Paris, France, 2014. (EI)', 'l\xa0\xa0 Hong Liu, Xuewu Zhang and Pingping Wu. Regression based landmark estimation and multi-feature fusion for visual speech recognition. IEEE International Conference on Image Processing (ICIP), pp.808-812, Sep. 27-30, Quebec, Canada, 2015.(EI)', '', '代表性研究成果', '1.\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 刘宏，吴平平，一种基于时空局部描述子的真假笑识别方法，2017.02.10,中国，2014101338034', '']
+
+['', '', '吕魁，男，中共党员，南京审计大学信息工程学院，副研究员。2010年获东南大学管理学博士学位。主要从事有关产业组织理论、决策建模优化等方面的研究，主持教育厅课题1项，参与自然科学基金多项。在《科学通报》、《管理科学学报》、《系统工程理论与实践》、《系统工程学报》等刊物发表论文20余篇。', '']
+
+['中共党员，从教以来一直担任计算机基础、数据库基础与应用等基础课程的教学工作，并积极参与各项课程建设。', '']
+

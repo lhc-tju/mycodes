@@ -1,0 +1,50 @@
+['陈尚杰', '网址：http://ms2014.ctbu.edu.cn/info/1018/4302.htm ']
+
+['曾静', '网址：http://ms2014.ctbu.edu.cn/info/1018/4301.htm ']
+
+['三级教授黄应绘', '网址：http://ms2014.ctbu.edu.cn/info/1018/4281.htm ']
+
+['陈义安', '网址：http://ms2014.ctbu.edu.cn/info/1018/4298.htm ']
+
+['蔺友江', '网址：http://ms2014.ctbu.edu.cn/info/1018/4307.htm ']
+
+['二级教授陈修素', '网址：http://ms2014.ctbu.edu.cn/info/1018/4283.htm ']
+
+['廖书', '网址：http://ms2014.ctbu.edu.cn/info/1018/4306.htm ']
+
+['杨炜明', '网址：http://ms2014.ctbu.edu.cn/info/1018/4311.htm ']
+
+['二级教授丁宣浩', '网址：http://ms2014.ctbu.edu.cn/info/1018/4303.htm ']
+
+['孙荣', '网址：http://ms2014.ctbu.edu.cn/info/1018/4300.htm ']
+
+['孙祥凯', '网址：http://ms2014.ctbu.edu.cn/info/1018/4309.htm ']
+
+['赵培信', '网址：http://ms2014.ctbu.edu.cn/info/1018/4314.htm ']
+
+['秦瑶', '网址：http://ms2014.ctbu.edu.cn/info/1018/4322.htm ']
+
+['李勇', '网址：http://ms2014.ctbu.edu.cn/info/1018/4318.htm ']
+
+['赵文强', '网址：http://ms2014.ctbu.edu.cn/info/1018/4315.htm ']
+
+['李麟', '网址：http://ms2014.ctbu.edu.cn/info/1018/4317.htm ']
+
+['袁利军', '网址：http://ms2014.ctbu.edu.cn/info/1018/4312.htm ']
+
+['袁德美', '网址：http://ms2014.ctbu.edu.cn/info/1018/4299.htm ']
+
+['李焕荣', '网址：http://ms2014.ctbu.edu.cn/info/1018/4316.htm ']
+
+['胡雪梅', '网址：http://ms2014.ctbu.edu.cn/info/1018/4305.htm ']
+
+['张付臣', '网址：http://ms2014.ctbu.edu.cn/info/1018/4313.htm ']
+
+['唐莉萍', '网址：http://ms2014.ctbu.edu.cn/info/1018/4310.htm ']
+
+['三级教授胡桂华', '网址：http://ms2014.ctbu.edu.cn/info/1018/4282.htm ']
+
+['杨宜平', '网址：http://ms2014.ctbu.edu.cn/info/1018/4319.htm ']
+
+['龙宪军', '网址：http://ms2014.ctbu.edu.cn/info/1018/4308.htm ']
+
