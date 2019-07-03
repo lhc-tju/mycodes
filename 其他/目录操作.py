@@ -1,0 +1,1 @@
+file_obj = open(os.path.join(folder, filename), flags)
